@@ -14,7 +14,7 @@ var config_data = `
     { "name": "Event",
       "code": "e",
       "type": "event",
-      "defaultValue": "2023bcvi",
+      "defaultValue": "2023nyro",
       "required": "true",
       "disabled": "true"
     },
